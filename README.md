@@ -8,7 +8,7 @@ Getting started
 
 ## Requirements
 
-To run the app you need [MongoDB](https://docs.mongodb.com/manual/installation/) and (of course) [NodeJS](https://nodejs.org/en/). Also remember to install Postman so you can test API's behaviour.
+To run the app you need [MongoDB](https://docs.mongodb.com/manual/installation/) and (of course) [NodeJS](https://nodejs.org/en/). Also remember to install [Postman](https://www.getpostman.com/) so you can test API's behaviour.
 
 
 ## Instructions
