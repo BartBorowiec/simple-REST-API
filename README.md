@@ -40,7 +40,7 @@ When you're ready click 'Send'.
 
 If everything works as intended you should see an object containing all the information fetched from the external database.
 
-![Image](imgs/moviepostresult.jpg)
+![Image](imgs/moviepostresponse.jpg)
 
 Try with some other titles. When you have enough, you can try to send GET request to the same URL. It doesn't require any additional elements like title. Now you should see all the movies you've posted to app's database.
 
