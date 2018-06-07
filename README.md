@@ -25,8 +25,6 @@ The database is empty so we should fill it up a little. Launch Postman and we wi
 ![Image](imgs/postmanmain.jpg)
 
 To send post request change selection on the dropdown next to URL field to POST. In the URL field enter  `http://localhost:3000/movies`  
-
-![Image](imgs/moviepostrequest.jpg)
-
 Select Body tab and click radio button next to x-www-form-urlencoded. We want to send a title to search in external database, therefore in Key column we enter title and value of our desire. I chose Toy Story because it's a really deep and moving animation.  
+![Image](imgs/moviepostrequest.jpg)
 When you're ready click 'Send'.
